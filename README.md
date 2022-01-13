@@ -1,6 +1,6 @@
 # Fix-Network-Dives-Win10
 
-Network Drives can be a bit flaky when working in Office documents. Sometimes they will have issues saving directly to them because of UAC issues and them spereating users from the login network drives. 
+Network Drives can be a bit flaky when working in Office documents. Sometimes they will have issues saving directly to them because of UAC issues and then separating users from the login network drives. 
 
 Edit the following key
 
